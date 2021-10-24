@@ -9,7 +9,7 @@ import org.springframework.cloud.netflix.eureka.EnableEurekaClient;
  * @date 2021-10-18 11:24
  */
 @SpringBootApplication
-@EnableEurekaClient
+//@EnableEurekaClient
 public class PaymentMain8001 {
     public static void main(String[] args) {
         SpringApplication.run(PaymentMain8001.class, args);
